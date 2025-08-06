@@ -6,5 +6,3 @@ This project replicates MODFLOW-based saturated flow modeling using machine lear
 - `modflow_simulations/`: Input files for MODFLOW
 - `ml/`: Python scripts for model training and evaluation
 - `data/`: Datasets used for training
-
-# Hello, how are you?
